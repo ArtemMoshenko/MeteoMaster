@@ -1,0 +1,75 @@
+.box {
+    width: 800px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    top: 20%;
+}
+
+.create {
+    border-radius: 10px;
+    padding: 10px;
+    background: #023236;
+    color: #d2d2f5;
+    transition: .3s;
+    border: 3px solid #01191a;
+    border-radius: 10px;
+    font-size: 50px;
+    margin-right: 16px;
+    margin-left: 150px;
+}
+
+.subject {
+    border-radius: 10px;
+    padding: 10px;
+    background: white;
+    color: #03989e;
+    transition: .3s;
+    border: 3px solid #03989e;
+    border-radius: 10px;
+    font-size: 50px;
+    margin-right: 16px;
+}
+
+.input_name_class {
+    padding: 10px;
+    background: white;
+    color: #03989e;
+    transition: .3s;
+    font-size: 50px;
+    margin-right: 16px;
+    width: 1000px;
+    text-color: grey;
+    border: none;
+    border-bottom: 7px solid #029096;
+    outline: none;
+    text-align: center;
+    font-family: "Impact";
+    color: black;
+
+}
+
+.box1 {
+    width: 1000px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    top: 80%;
+}
+
+.box2 {
+    width: 1000px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    top: 60%;
+}
+
+
+
