@@ -249,7 +249,7 @@ def reg():
 def main_reg(user_id=0):
     session['user_id'] = str(user_id)
 
-    if request.method == "POST":
+    if request.method == "POST" :
 
         if 'stats' in request.form:
             return redirect('/stats/user/' + str(user_id))
